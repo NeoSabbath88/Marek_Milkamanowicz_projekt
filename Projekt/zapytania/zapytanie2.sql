@@ -1,0 +1,4 @@
+CREATE VIEW zapytanie2 AS
+SELECT * FROM ksiazki
+WHERE cena >200
+ORDER BY cena ASC

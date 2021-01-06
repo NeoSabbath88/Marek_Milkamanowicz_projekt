@@ -1,0 +1,2 @@
+Projekt bazy danych ma na celu organizację oraz usprawnienie działania internetowej księgarni internetowej.
+Przechowuje dane dla dostępnych książek,stanu magazynu,zamówień i ich statusu oraz klientów. 

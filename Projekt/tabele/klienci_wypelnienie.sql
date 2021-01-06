@@ -1,0 +1,16 @@
+INSERT INTO klienci (imie,nazwisko,adres,email,telefon,miejscowosc)
+VALUES ('Krzysztof','Bosak',' Błękitna 12/3','bosako@o2.pl',585501559,'Kraków'),
+('Norbert ','Gierczak',' Stara Stocznia 5/5 ','Gierczoro@wp.pl',916169826, 'Gdańsk'),
+('Tomasz ','Sadowicz',' Mosdorfa Jana 12/9 ','tomcio.s@onet.pl',809138691,'Kraków'),
+('Wojciech ','Olszański',' Karolewska 17/2','olsza@o2.pl',271175904,'Łódź'),
+('Marek ','Jędraszewski',' Konstytucji 3-go Maja 14/2','marek.jedraszewski@onet.pl',666213788,'Karpacz'),
+('Aleksander ','Jabłonowski',' Karłuszowiec 39 ','slowianskiwilk@wp.pl',966844118,'Tarnowskie Góry'),
+('Kaja ','Godek',' Natansona Władysława 93','malymuminek@o2.pl',322668331,'Kraków' ),
+('Mirosław ','Plaugo',' Paganiniego Mikołaja 14/2','filozofelektryk@gmail.com',786162376,'Warszawa'),
+('Jakub','Romanek','Wojska Polskiego 10/5 ','romanekkuba@onet.pl',614604482,'Świnoujście'),
+('Paweł ','Gaweł',' Optyczna 5/5','sasiadgawla@o2.pl',119174074,'Warszawa'),
+('Fryderyk ','Chłopin','Wyspiańskiego Stanisława 64','balladastulecia@o2.pl',743184723,'Zielona Góra'),
+('Mariusz','Kowalski',' Krokusów 68','kowalskimariusz@interia.pl',348256142,'Jastrzębie-Zdrój'),
+('Wojciech ','Polak','Bruśnicka 10/7','prymas@o2.pl',266095564,'Kraków'),
+('Berenika ','Jaworska','Świerkowa 8/4','berenikajaworska@interia.pl',824896989,'Kraków'),
+('Felicja','Milkamanowicz','Smętka 20a/10','felicjamilka@gmail.com',733849155,'Giżycko')
